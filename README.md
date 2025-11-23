@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+# About Me:
 Data Scientist at Van Oord currently pursuing a Masters in Robotics at TU Delft.
 
 
