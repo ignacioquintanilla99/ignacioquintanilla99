@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # About Me:
-Data Scientist at Van Oord, currently pursuing a part-time master’s at TU Delft.
+AI Engineer at Van Oord, currently pursuing a part-time master’s at TU Delft.
 
 
 ## 🌐 Socials:
